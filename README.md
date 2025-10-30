@@ -7,12 +7,12 @@ I'm a passionate data engineer with expertise in designing and implementing robu
 ### 🔧 Technologies & Tools
 
 **Languages & Frameworks**
-- Python, SQL, Scala, Java
-- PySpark, Pandas, NumPy, Airflow, dbt
+- Python, SQL,
+- PySpark, Pandas, NumPy, Airflow, Databricks
 
 **Big Data & Processing**
-- Apache Spark, Kafka, Flink
-- Hadoop, Hive, Presto
+- Apache Spark, Kafka,
+- Hadoop, Hive
 
 **Cloud Platforms**
 - AWS (S3, Redshift, EMR, Glue, Lambda)
